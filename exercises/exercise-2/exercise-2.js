@@ -70,7 +70,7 @@ let hogwarts = [
   },
   {
     firstName: "Minerva",
-    lastName: "McGonagall",
+    lastName: "McGonagall", 
     house: "Gryffindor",
     pet: null,
     occupation: "Teacher",
