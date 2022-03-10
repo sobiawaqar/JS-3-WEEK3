@@ -70,3 +70,4 @@ let hogwarts = [
     occupation: "Teacher",
   },
 ];
+
